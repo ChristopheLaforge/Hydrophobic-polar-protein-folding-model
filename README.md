@@ -1,2 +1,2 @@
-This repository focuses on the so-called Hydrophobic-Polar Protein Folding model.
+This repository focuses on the so-called Hydrophobic-Polar Protein Folding model.<br>
 A [Wikipedia page](https://en.wikipedia.org/wiki/Hydrophobic-polar_protein_folding_model) of this model exits.
